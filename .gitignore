@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /vendor
 /node_modules
 Homestead.yaml
@@ -13,3 +14,9 @@ _ide_helper.php
 composer.phar
 error.log
 Todo.rtf
+=======
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.env
+>>>>>>> fe3f2da3da4a51a8b4ba428219ea5a3ef04d8fbd
